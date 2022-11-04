@@ -7,3 +7,8 @@ Equipe: A
         Desenvolvedor 1: João Marcos
         Habilidade: sabe jogar league of legends, sabe cozinhar arroz, sabe temperar feijao
         Experiencia: Experiencias na cozinha sao limitadas.
+(SM)
+
+Dev0: Allan Almeida
+Habilidades: X
+Experiência: X
