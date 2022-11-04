@@ -6,4 +6,4 @@ Equipe: A
 
         Desenvolvedor 1: João Marcos
         Habilidade: sabe jogar league of legends, sabe cozinhar arroz, sabe temperar feijao
-        Experiencia: todo dia vê minhas casas de apostas de league of legends. Experiencias na cozinha sao limitadas.
+        Experiencia: Experiencias na cozinha sao limitadas.
